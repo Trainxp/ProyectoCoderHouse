@@ -185,6 +185,13 @@ h1{
     border-radius: 30px;
 }
 
+/* propiedades tranform para seccion productos */
+
+.caja:hover{
+    box-shadow: rgb(211, 2, 211) 1px 1px 2px 2px; color:rgb(211, 2, 211) ;
+    transform: scale(1.05, 1.05);
+}
+
 /* subtitulo de la pagina "sobre nosotros" */
 h3{
     margin-top: 70px;
